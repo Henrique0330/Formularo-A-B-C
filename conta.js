@@ -21,6 +21,7 @@ function click_calcular() {
     }
 
     const Resultado = document.getElementById("resultado");
-    Resultado.innerHTML = `X1: ${X1}
-    X2: ${X2}`
+    Resultado.innerHTML = `X1: ${X1} <br> X2:${X2}`
+  
+    
 }

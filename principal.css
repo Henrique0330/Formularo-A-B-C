@@ -1,4 +1,4 @@
-body{
+body {
     background-color: rgb(32, 62, 90);
     color: aliceblue;
     border: solid 3px beige;
@@ -6,9 +6,9 @@ body{
     margin-right: auto;
     width: 360px;
     border-radius: 8px;
-    text-align: center;
 }
-.Bor{
+
+.Bor {
     text-align: center;
     padding: 40px;
 }
